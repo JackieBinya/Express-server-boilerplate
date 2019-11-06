@@ -10,6 +10,9 @@ Ensure that you have [git](https://git-scm.com/) installed on your local machine
 - On the terminal run the command ```npm init -y``` to initialize your project.
 - And to install all dependencies listed in _package.json_ run the command ``npm i `` on your terminal.
 
+## Starting the server
+ On the terminal run the command ``npm start`` to get your server started.
+
 ## Acknowledgements
 [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
